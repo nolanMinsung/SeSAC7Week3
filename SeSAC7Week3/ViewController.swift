@@ -23,6 +23,7 @@ class ViewController: UIViewController {
         print(6)
         
         print("Hello, world")
+//        뷰컨트롤러에 주석 작성하기.
     }
 
 
