@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        // git 커밋용 주석 추가
         print(0)
         print(2)
         print(3)
