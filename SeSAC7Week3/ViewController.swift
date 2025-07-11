@@ -9,6 +9,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    /// 뷰가 뷰컨트롤러에 로드될 때 호출되는 함수.
+    /// 뷰컨트롤러 생애 주기에 한 번만 호출됨.
     override func viewDidLoad() {
         super.viewDidLoad()
         
